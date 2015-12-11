@@ -1,4 +1,6 @@
 # ctx-dbus
+[![Build Status](https://travis-ci.org/asteris-llc/ctx-dbus.svg)](https://travis-ci.org/asteris-llc/ctx-dbus)
+
 Context-enabled interface to the github.com/coreos/go-systemd/dbus package
 
 ```
